@@ -1,4 +1,4 @@
-# dsh-ocgo-lite（纯黑白配色版）
+# dsh-ogodingyue（纯黑白配色版）
 
 > 本仓库是 [**OK-wx/dsh-ocgo-lite**](https://github.com/OK-wx/dsh-ocgo-lite) 的 fork，
 > **只改配色，逻辑一行未动**。
@@ -68,7 +68,7 @@ GO 徽章的 `letterSpacing` 也去掉了。
 安装（把包名换成这个仓库）：
 
 ```bash```
-dsh plugin --profile <你的profile> add github:dawalixi1980/dsh-ocgo-lite
+dsh plugin --profile <你的profile> add github:dawalixi1980/dsh-ogodingyue
 ``````
 
 ---
