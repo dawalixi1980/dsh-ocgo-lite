@@ -1,5 +1,5 @@
 {
-  "name": "dsh-ocgo-lite",
+  "name": "dsh-ogodingyue",
   "version": "0.1.0",
   "description": "OpenCode Go 用量常驻条（黑白配色版）— DeepSeek Harness 插件：聊天输入框下方常驻显示套餐余量(滚动/周/月)、总消耗 token 与金额。fork 自 OK-wx/dsh-ocgo-lite，去掉全部品牌蓝色，改为中性灰阶。",
   "license": "MIT",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dawalixi1980/dsh-ocgo-lite.git"
+    "url": "git+https://github.com/dawalixi1980/dsh-ogodingyue.git"
   },
-  "homepage": "https://github.com/dawalixi1980/dsh-ocgo-lite#readme"
+  "homepage": "https://github.com/dawalixi1980/dsh-ogodingyue#readme"
 }
